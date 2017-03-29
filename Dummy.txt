@@ -1,0 +1,6 @@
+Dummy Info:
+Name-Anisul Haque
+NID-19872546612000005
+Phone-01730654679
+Email-anisulhaque@gmail.com
+Password-abcd1234
